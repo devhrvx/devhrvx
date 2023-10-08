@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @hrvyCased
+- 👀 I’m interested in learning how to code and video games.
+- 🌱 I’m currently learning Java and HTML.
+- 💞️ I’m looking to collaborate on nothing as of now.
+- 📫 How to reach me review my social accounts on [hrvyCased](https://github.com/hrvyCased)
+- 🎧 I like listening to music.
+- 🍴 I also like to eat :).
