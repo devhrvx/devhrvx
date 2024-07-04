@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hrvyCased <kbd>Harvey</kbd>
+- 👋 Hi, I’m @h-rvx <kbd>Harvey</kbd>
 - 👀 I’m interested in learning how to code.
 - 🌱 I’m currently learning <kbd>Intermediate Java</kbd><, bits of web dev such as <kbd>HTML-CSS</kbd> and <kbd>Android Application Development</kbd>
 - 💞️ I’m not looking to collaborate as of now.
